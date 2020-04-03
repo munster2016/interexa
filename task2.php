@@ -3,8 +3,8 @@
 /**
  * Task 2:
  * Implementiere eine doppelt verkettete Liste. Jedes Element der Liste ist dabei ein einzelnes Objekt. Zu jedem Objekt soll es möglich sein, den Vorgänger und den Nachfolger zu bestimmen und auf diese Art die Liste zu traversieren.
-Außerdem soll es möglich sein, nach einem Element ein weiteres Element einzufügen.
-Zusätzlich soll eine Hilfsklasse implementiert werden, die folgende Funktionen bietet:
+     Außerdem soll es möglich sein, nach einem Element ein weiteres Element einzufügen.
+     Zusätzlich soll eine Hilfsklasse implementiert werden, die folgende Funktionen bietet:
 - Bestimmung des ersten/letzten Elements der Liste
 - erstes/letztes Element der Liste entfernen
 - Prüfung, ob ein bestimmtes Element in einer Liste vorhanden ist

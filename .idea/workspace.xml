@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="534981c6-9c33-476a-8796-6a9ff9477e65" name="Default Changelist" comment="" />
+    <list default="true" id="534981c6-9c33-476a-8796-6a9ff9477e65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/task2.php" beforeDir="false" afterPath="$PROJECT_DIR$/task2.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585872092924</updated>
       <workItem from="1585872094704" duration="770000" />
-      <workItem from="1585874233590" duration="708000" />
+      <workItem from="1585874233590" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1585874755283</created>
